@@ -95,7 +95,7 @@ usage: twin_ion [-h] [--verbose [VERBOSE]] [-L FILE] [-T JOBNAME] [-j N]
               [--flowchart_format FORMAT] [--forced_tasks JOBNAME]
               [--config CONFIG] [--jobscripts JOBSCRIPTS] [--version]
 
-Colorectal cancer pipeline
+Twin ion pipeline
 
 optional arguments:
   -h, --help            show this help message and exit
